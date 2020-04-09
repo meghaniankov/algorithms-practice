@@ -6,6 +6,7 @@ Practice and notes for basic algorithms & Data Structures
 1. Merge Sort
 2. Quick Sort
 3. Insertion Sort
+4. Bubble Sort
 
 ### Graph Traversal
 1. Breadth First Search (BFS)

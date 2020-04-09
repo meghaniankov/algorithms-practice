@@ -43,7 +43,7 @@ end
 
 # Let's give this a spin?
 merge_sort = MergeSortAlgorithm.new
-puts merge_sort.sort([4, 92, 1, 39, 19, 93, 49, 10].shuffle) # => [1, 4, 10, 19, 39, 49, 92, 93]
+puts merge_sort.sort([4, 92, 1, 39, 19, 93, 49, 10, 2].shuffle) # => [1, 4, 10, 19, 39, 49, 92, 93]
 
 # How it works
 # 1. Let's say the input is [4, 92, 1, 39, 19, 93, 49, 10]

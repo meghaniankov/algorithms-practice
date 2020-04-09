@@ -8,17 +8,18 @@ Practice and notes for basic algorithms & Data Structures
 - [ ] Insertion Sort
 - [x] Bubble Sort
 
+### Search Algorithms
+- [ ] Binary Search
+
 ### Graph Traversal
 - [ ] Breadth First Search (BFS)
 - [ ] Depth First Search (DFS)
-
-### Search Algorithms
-- [ ] Binary Search
 
 ### Data Structures 
 - [x] Binary Search Tree
 - [x] Linked Lists
 - [ ] Stacks & Queues
+- [ ] Graphs
 
 ### MISC
 - [x] Big O Notation

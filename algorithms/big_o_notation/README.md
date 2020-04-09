@@ -20,4 +20,4 @@ O(N) describes an algorithm whose performance will grow linearly and in direct p
 Quadratic Time
 Here we're nesting two loops. If our array has n items, our outer loop runs n times and our inner loop runs n times for each iteration of the outer loop.
 
-![BigONotation Image](../images/BigOComplexity.png)
+![BigONotation Image](../../images/BigOComplexity.png)

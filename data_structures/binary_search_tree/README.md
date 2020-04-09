@@ -6,13 +6,14 @@ Binary Search Tree is a node-based binary tree data structure which has the foll
 2. The right subtree of a node contains only nodes with keys greater than the node’s key.
 3. The left and right subtree each must also be a binary search tree.
 
-![BST Image](../images/BST.png)
+![BST Image](../../images/BST)
 
 
 ### Traversal
 
 #### Inorder 
 Left, Root, Right
+
 Inorder traversal gives nodes in non-decreasing order.
 1. Traverse the left subtree i.e perform inorder on left subtree
 2. Visit the root
@@ -20,6 +21,7 @@ Inorder traversal gives nodes in non-decreasing order.
 
 #### Preorder 
 Root, Left, Right 
+
 Preorder traversal is used to create a copy of the tree. Preorder traversal is also used to get prefix expression on of an expression tree. 
 1. Visit the root.
 2. Traverse the left subtree, i.e., call Preorder(left-subtree)
@@ -27,6 +29,7 @@ Preorder traversal is used to create a copy of the tree. Preorder traversal is a
 
 #### Postorder 
 Left, Right, Root 
+
 Postorder traversal is used to delete the tree.
 1. Traverse the left subtree, i.e., call Postorder(left-subtree)
 2. Traverse the right subtree, i.e., call Postorder(right-subtree)

@@ -1,33 +1,35 @@
-Coding Question:
-# Basic Algorithms
-- [ ] big O notation 
-- [ ] basic search algorithms
+# BEACON PREP
 
-# Data Structures
-- [ ] graphs 
-- [ ] trees
-- [ ] hash table
-- [ ] queues
+## Basic Algorithms
+- [x] Big O Notation 
+- [ ] Basic Search Algorithms
+  - [ ] Binary Search
+  - [ ] Breadth First Search (BFS)
+  - [ ] Depth First Search (DFS)
 
-# Distributed Computing
-- [ ] multi-threading
-- [ ] load-balancing/failover 
-- [ ] failure modes 
-- [ ] concurrency
-- [ ] eventual consistency
-- [ ] sharding
+## Data Structures
+- [ ] Graphs 
+- [x] Trees
+  - [x] Binary Search Tree
+- [x] Hash Table
+- [ ] Queues
+
+## Distributed Computing
+- [ ] Multi-Threading
+- [ ] Load-Balancing/Failover 
+- [ ] Failure Modes 
+- [ ] Concurrency
+- [ ] Eventual Consistency
+- [ ] Sharding
 
 
-Systems Design Question:
-The system design question helps us learn about your process to design highly
-available and scalable services. Use the whiteboard to describe your view of an overall
-system architecture to solve the problem, components of this architecture, and data
-flows between components.
+### Systems Design Question:
+The system design question helps us learn about your process to design highly available and scalable services. Use the whiteboard to describe your view of an overall system architecture to solve the problem, components of this architecture, and data flows between components.
 
-Example coding question:
+### Example coding question:
 “Using input of an array of words, write a function which returns all unique combinations of
 words which are anagrams of one-another”
 
-Example system design question:
+### Example system design question:
 “How would you design the service behind Twitter?”
 

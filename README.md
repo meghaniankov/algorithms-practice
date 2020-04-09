@@ -3,22 +3,22 @@
 Practice and notes for basic algorithms & Data Structures
 
 ### Sorting Algorithms
-1. Merge Sort
-2. Quick Sort
-3. Insertion Sort
-4. Bubble Sort
+- [x] Merge Sort
+- [ ] Quick Sort
+- [ ] Insertion Sort
+- [x] Bubble Sort
 
 ### Graph Traversal
-1. Breadth First Search (BFS)
-2. Depth First Search (DFS)
+- [ ] Breadth First Search (BFS)
+- [ ] Depth First Search (DFS)
 
 ### Search Algorithms
-1. Binary Search
+- [ ] Binary Search
 
 ### Data Structures 
-1. Binary Search Tree
-2. Linked Lists
-3. Stacks & Queues
+- [x] Binary Search Tree
+- [x] Linked Lists
+- [ ] Stacks & Queues
 
 ### MISC
-1. Big O Notation
+- [x] Big O Notation

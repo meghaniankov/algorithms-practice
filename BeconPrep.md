@@ -3,7 +3,7 @@
 ## Basic Algorithms
 - [x] Big O Notation 
 - [ ] Basic Search Algorithms
-  - [ ] Binary Search
+  - [x] Binary Search
   - [ ] Breadth First Search (BFS)
   - [ ] Depth First Search (DFS)
 

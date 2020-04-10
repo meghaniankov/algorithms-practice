@@ -8,6 +8,9 @@ Each node contains a pointer to the next node. In doubly linked lists, nodes con
 
 ### Linked List vs Array
 
+![linked list vs array](../../images/linked-list-vs-array.png)
+
+
 Array = items are indexed
 Linked List = not indexed
 
@@ -19,3 +22,5 @@ Advantage:
 Disadvatage:
 - Slow to get to the nth element
   - O(n) (aka linear)
+
+

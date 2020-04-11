@@ -14,10 +14,10 @@
 - [x] Hash Table
 - [ ] Queues
 
-## Misc Topics
-- [ ] Distributed Computing
+## System Design
+- [x] Distributed Computing
 - [-] Multi-Threading
-- [ ] Load-Balancing/Failover 
+- [x] Load-Balancing/Failover 
 - [ ] Failure Modes 
 - [ ] Concurrency
 - [ ] Eventual Consistency

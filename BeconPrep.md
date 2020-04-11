@@ -14,7 +14,8 @@
 - [x] Hash Table
 - [ ] Queues
 
-## Distributed Computing
+## Misc Topics
+- [ ] Distributed Computing
 - [ ] Multi-Threading
 - [ ] Load-Balancing/Failover 
 - [ ] Failure Modes 

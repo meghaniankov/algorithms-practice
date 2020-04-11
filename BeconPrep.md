@@ -16,7 +16,7 @@
 
 ## Misc Topics
 - [ ] Distributed Computing
-- [ ] Multi-Threading
+- [-] Multi-Threading
 - [ ] Load-Balancing/Failover 
 - [ ] Failure Modes 
 - [ ] Concurrency

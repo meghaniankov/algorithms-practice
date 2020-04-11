@@ -16,10 +16,10 @@
 
 ## System Design
 - [x] Distributed Computing
-- [-] Multi-Threading
+- [x] Multi-Threading
 - [x] Load-Balancing/Failover 
 - [ ] Failure Modes 
-- [ ] Concurrency
+- [x] Concurrency
 - [ ] Eventual Consistency
 - [ ] Sharding
 

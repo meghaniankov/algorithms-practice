@@ -20,7 +20,7 @@
 - [x] Load-Balancing/Failover 
 - [ ] Failure Modes 
 - [x] Concurrency
-- [ ] Eventual Consistency
+- [x] Eventual Consistency
 - [ ] Sharding
 
 

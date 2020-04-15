@@ -12,7 +12,7 @@
 - [x] Trees
   - [x] Binary Search Tree
 - [x] Hash Table
-- [ ] Queues
+- [x] Queues
 
 ## System Design
 - [x] Distributed Computing
@@ -21,7 +21,7 @@
 - [ ] Failure Modes 
 - [x] Concurrency
 - [x] Eventual Consistency
-- [ ] Sharding
+- [x] Sharding
 
 
 ### Systems Design Question:

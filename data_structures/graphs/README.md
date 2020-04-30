@@ -16,3 +16,6 @@ BFS(Breadth First Search) uses Queue data structure for finding the shortest pat
 
 https://www.geeksforgeeks.org/difference-between-bfs-and-dfs/
 
+### Time Complexity
+
+The time complexity of both BFS and DFS is O(V + E). V = vertices(nodes), E = edges
